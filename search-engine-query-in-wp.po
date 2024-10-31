@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: search-engine-query-in-wp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-05 16:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Francesco Castaldo <fcastaldo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib.php:396
+#, php-format
+msgid "You were looking for <strong>%s</strong> on <em>%s</em>. You might be interested in:"
+msgstr ""
+
+#: lib.php:415
+#, php-format
+msgid "In the <strong>%s</strong> category:"
+msgstr ""
+
+#: lib.php:419
+#, php-format
+msgid "You were looking for <strong>%s</strong> on <em>%s</em>. Have a look at the <strong>%s</strong> category:"
+msgstr ""
+
+#: lib.php:470
+msgid "more..."
+msgstr ""
+
+#: search-engine-query-in-wp.php:72
+msgid "Fetching data..."
+msgstr ""
+
+#: search-engine-query-in-wp.php:188
+msgid "Widget title:"
+msgstr ""
+
+#: search-engine-query-in-wp.php:189
+msgid "Number of results (numeric value between 1 and 10):"
+msgstr ""
+
+#: search-engine-query-in-wp.php:190
+msgid "Show category posts if no results with \"search engine query\" are found:"
+msgstr ""
+
+#: search-engine-query-in-wp.php:191
+msgid "Track clicks"
+msgstr ""
+
+#: search-engine-query-in-wp.php:192
+msgid "If you choose to track clicks on the widget's links, the plugin will add to internal links some special parameters that will allow you to understand how much the box is used and in which manner. In your analytics tool you'll find a \"Search engine query in WP widget\" campain with all the data."
+msgstr ""
+
+#: search-engine-query-in-wp.php:192
+msgid "More information here"
+msgstr ""
+
+#: search-engine-query-in-wp.php:193
+msgid "Use Ajax technology"
+msgstr ""
+
+#: search-engine-query-in-wp.php:194
+msgid "If you choose to use Ajax technology, related posts will be fetched after the page is completely loaded. This way the page loads faster, but the box won't be availabe on devices not supporting advanced javascript. The box won't even be visible to search engines, but if you have a strong internal linking structure, this point won't be relevant."
+msgstr ""
+
+#: search-engine-query-in-wp.php:195
+msgid "Log search engine landings by email"
+msgstr ""
+
+#: search-engine-query-in-wp.php:196
+msgid "Email to send \"lands\" to:"
+msgstr ""
+
+#: search-engine-query-in-wp.php:197
+msgid "By turning this option on, the mailbox in the previous field will receive an email each time a user will land on this blog from a search engine result page. It's a funny way of being aware the widget works and also of what users search for reaching your blog (but it's better if you check your stats for this). This option might slow down your blog, it's strongly suggested to disable it. No information about the visitor are sent nor stored. If the email address provided is not valid, it won't be saved."
+msgstr ""
+
+#: search-engine-query-in-wp.php:199
+msgid "If this plugin is worth for you, consider donating a very few bucks for the time I spent developing it ;)"
+msgstr ""
+

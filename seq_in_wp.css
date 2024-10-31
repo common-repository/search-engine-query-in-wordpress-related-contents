@@ -1,0 +1,4 @@
+#search-engine-query-in-wp .more{text-align:right;}
+#search-engine-query-in-wp div {border:1px solid #cccccc;padding:5px;margin-top:5px;}
+#relatedPosts { display:none; }
+#relatedPostsLoading p {text-align:center;margin-top:10px;}
